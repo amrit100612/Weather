@@ -109,34 +109,6 @@ The modular structure makes it easy to add:
 - Weather icons
 - Temperature unit conversion
 
-## 📱 Screenshots
-
-### Desktop View
-```
-┌─────────────────────────────────────┐
-│            Weather App              │
-├─────────────────────────────────────┤
-│  [Enter location...] [Get Weather]  │
-│                                     │
-│  🌤️ Temperature in London, UK:     │
-│           **15°C**                  │
-└─────────────────────────────────────┘
-```
-
-### Mobile View
-```
-┌───────────────────┐
-│   Weather App     │
-├───────────────────┤
-│ [Enter location]  │
-│  [Get Weather]    │
-│                   │
-│ 🌤️ Temperature   │
-│ in Mumbai, India: │
-│     **28°C**      │
-└───────────────────┘
-```
-
 ## 🚨 Error Handling
 
 The app gracefully handles various error scenarios:
@@ -175,10 +147,6 @@ Want to improve the Weather App? Here's how:
 - Temperature unit toggle (°C/°F)
 - Weather alerts and warnings
 - Dark/light theme toggle
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
